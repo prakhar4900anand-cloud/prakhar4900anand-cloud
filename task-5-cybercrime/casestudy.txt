@@ -1,9 +1,64 @@
-PART A: CASE STUDY
+Section A: Establishing the Context
 
-UPI (Unified Payments Interface) fraud is a type of cybercrime that is prevalent in India and involves criminals manipulating the UPI system to deceive people into making payments by requesting a fake payment. In the average case of UPI fraud, a victim receives a call or text message saying they are going to receive a large payment or reward, followed by a payment request from the fraudster, which the victim approves and enters their UPI PIN (personal identification number), resulting in the fraudster receiving the payment rather than the victim.
+Digital technologies form a large part of many students' lives and are essential for many tasks students complete using digital technologies such as creating presentations and submitting homework. Consequently, students feel a certain degree of comfort when using these digital tools, including Canva and Google Docs. However, some students do not consider the broader issues related to using digital technologies, including copyright and intellectual issues of using copied work, protecting their privacy, and how their work may be assessed.
+This is an important issue since what students create or share using these tools will have implications for their future. An example of this is a student who has created a professional-looking presentation but has used copied or inaccurate information in the presentation, so even though it may appear to be good quality, its actual quality will be poor. In addition, the advent of modern technologies including templates and suggestions has provided students with the ability to rapidly create products, but it has reduced the level of deep thought associated with creating these products. Simply having access to the internet does not mean that someone is digitally literate. Digital literacy requires people to understand how to be a responsible and knowledgeable member of the digital world.
 
-Students and people using UPI for the first time are usually the ones that are targeted for fraud, as they may not be totally familiar with the UPI system. The fraudsters may also impersonate bank officials and create fake customer service numbers to gain trust from potential victims.
+Part B: Digital Identity and Conduct
 
-Fraud resulting from UPI fraud may include financial loss, emotional distress, and lack of trust in using digital payment solutions. If a victim of UPI fraud does not report the fraud and take steps to recover their money quickly, it will likely be very difficult for them to get their money back.
+Establishing oneself on the internet has become a routine expectation for college-aged students.
+These students can use tools such as GitHub and LinkedIn to display all of their academic, personal, and professional accomplishments as evidence of their abilities and experience, which can help them present themselves in a professional manner within their chosen area of study.
 
-The above example demonstrates the need for education, awareness and vigilance while using digital payment systems. It is important for users to understand that entering a PIN is pointless when they receive money, and therefore any request to do so likely indicates a scam.
+There are also many pitfalls when creating an online profile.
+Many students seem to be more interested in bragging about their achievements rather than demonstrating true skills or accomplishments. Many others have inflated the level of their competencies or included work that is still in process as if it were completed. I believe this type of behavior is unethical. While it could assist someone in the immediate timeframe, it can create a poor reputation long term.
+
+Another danger associated with having an online profile is digital permanence.
+Once something has been published online, it can be nearly impossible to remove it. Therefore, any poor judgement that was exercised initially may remain visible on the internet permanently and create ramifications for a student’s future. Creating an online presence can be advantageous for a student, provided that the information displayed demonstrates the student’s true nature of honesty and willingness to learn rather than presenting the illusion of having it all.
+
+Section C: Cooperation or Abusing Tools
+
+Today’s technology provides students with the ability to collaborate via the Internet.
+
+Google Docs allows students to collaborate on assignments without being in the same location. This aids in communication and helps groups complete assignments faster.
+
+Technology can also be misused.
+
+Many times, a few group members will do most of the work while the rest of the group relies on them. It is difficult to determine who did what since everything is done online.
+
+When is collaboration a form of cheating?
+
+Sharing ideas is acceptable when working on a group project; however, using another person’s work (i.e., copying) or using only another person’s ideas is not acceptable. Teamwork will provide them with experience that will transfer to their future workplace; however, they must also develop the ability to work independently.
+
+Students need the ability to collaborate; however, it is crucial that they also have the ability to work independently. There needs to be a balance struck between collaboration and individualism.
+
+Section D: Being Careful Online
+
+There are many ways to become a target for online crime. Cyber crime, scams and frauds take place even though we're all aware of them; just knowing they exist doesn't prevent them from happening. For example: when people experience pressure from emails or other forms of communication to respond immediately, they tend to act too quickly without checking the validity of the message.
+
+It is up to everybody to continue improving cyber safety.
+As users of the Internet we have a responsibility to ensure that we do our homework before agreeing to anything. Companies and websites must also create environments that make it easier for users to be safe.
+
+Students who fall victim to online scams do so not necessarily because they made a poor decision; they often simply did not know what else they should have done and/or they may have felt pressured to take action. The tools provided to users to keep safe online, e.g. passwords; education about different online threats, only go so far. If we are to truly minimize the likelihood of experiencing an online crime, we need to change how we act when we are online.
+
+Practicing good cyber safety includes checking emails before opening them; not clicking on links in emails sent from someone you don't know; and thinking carefully before responding to any email or message.
+
+E. Communication and Politeness Online
+
+Most students understand the concept of a formal email; however, most don't use them. This is because most of their communications are through text messaging, which is a fast and informal way to communicate with people. Therefore, most students are used to sending quick, casual messages, which are not appropriate for professional communication.
+
+While they may communicate informally most of the time, it is important to know the difference between casual and formal communication in professional environments.
+
+When sending emails to a teacher or employer, they should always be in a format that is appropriate for the situation, polite in nature, and provide an appropriate tone.
+People's perceptions of a person and their level of professionalism may be influenced by the way someone speaks or writes. Regardless of whether a person means well when sending out an email, they could still create an 'unprofessional' image by poor choice of words in that email. Communication is a reflection of your level of professionalism and commitment. As a result, students must learn the difference between formal versus informal styles of communicating and adjust accordingly based on the setting in order to maximize effectiveness and maintain professionalism.
+
+Part F: Reflection
+
+Prior to this case study, my view of digital literacy was that it was solely the ability to utilize tools such as presentation software and the Internet.
+However, the case study has shown me that there is much more to being digitally literate than having the knowledge of how to utilize tools - it also involves an understanding of how to properly use those tools, making responsible decisions when using those tools, and using those tools in such a manner that is considered socially responsible.
+
+In the case study, I saw how a small error online can lead to significant consequences.
+I also learned about cyber theft and how someone can have a good understanding of the risks and still commit an error that could have been prevented.
+
+While I feel comfortable using digital tools, I recognize there are many areas I can improve in, including verifying the accuracy of information before using it, as well as writing in a professional manner.
+
+If I could alter my usage of the Internet, I would slow down and think through my actions before I engage in them.
+By taking a few moments to ensure the accuracy of the information I am using or the profession manner in which I am writing, I will eliminate many of the issues surrounding my use of the digital world, and I will be a much better citizen of the digital world.
